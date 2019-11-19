@@ -4,9 +4,9 @@ about: Create a bug report to help us improve
 
 ---
 - % of customers impacted: [100]%
-- Is this visible by all customers, a high traffic area, or VIP: [All Customer]
-- Is revenue impacted: [y/n]
-- Urgency: [High/Medium/Low]
+- Affected Users: [Engineers / Operators / Customers]
+- Is revenue impacted: [Yes / No]
+- Urgency: [High / Medium / Low]
 - Deadline: [Date]
 
 ## Description of Bug
