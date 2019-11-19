@@ -1,6 +1,6 @@
 ---
 name: New Epic
-about: Create a new Epic
+about: Create a new epic
 
 ---
 As a [persona/system/team],
@@ -15,18 +15,7 @@ Clear details of what the minimum requirements are to complete this epic
 - [ ] Security implications approved
 - [ ]
 
-## Scope
-- [ ] Major Task 1 to be achieved
-- [ ] Major Task 2 to be achieved
-- [ ] 
-
-## Timelines
-- Start: [datetime/quarter/year]
-- Beta: [datetime/quarter/year]
-- Launch: [datetime/quarter/year]
-- Public Communication: [datetime/quarter/year]
-
-### Stake Holders
+## Stake Holders
 - [persona/team/business function]
 
 #### Non Functional Requirements/Wants

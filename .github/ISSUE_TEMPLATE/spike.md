@@ -1,6 +1,6 @@
 ---
 name: Spike
-about: Create a new Spike report
+about: Create a new spike report
 
 ---
 In order to [achieve some goal/result]
