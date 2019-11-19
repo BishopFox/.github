@@ -11,7 +11,6 @@ so that [achieve some goal/result]
 Clear details of what the minimum requirements are to complete this task
 
 ## Acceptance Criteria
-
 - [ ] Security implications approved
 - [ ]
 
